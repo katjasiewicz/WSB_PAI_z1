@@ -20,6 +20,7 @@ while($user = $result -> fetch_assoc()){
         Imię i nazwisko: $user[firstName]
         $user[lastName]<br>
 USER;
+
 }
 ?>
 </body>

@@ -10,7 +10,6 @@ Nazwisko: $lastName
 <hr>
 DATA;
 
-
 $data = <<< DATA
 Imię: $firstName<br>
 Nazwisko: $lastName
