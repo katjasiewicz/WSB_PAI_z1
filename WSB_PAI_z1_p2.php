@@ -31,6 +31,7 @@ LIST;
 require "./scripts/script.php";
 include_once "./scripts/script.php";
 
+
 ?>
 <h3>Dane po wywołaniu skryptu</h3>
 <ol>

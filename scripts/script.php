@@ -6,5 +6,4 @@ echo<<<ORDEREDLIST
     <li>kalafior</li>
 </ol>
 ORDEREDLIST;
-
 ?>

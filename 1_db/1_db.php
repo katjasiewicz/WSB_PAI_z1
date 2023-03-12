@@ -21,7 +21,6 @@ while($user = $result -> fetch_assoc()){
         $user[lastName]<br>
 USER;
 }
-
 ?>
 </body>
 </html>
